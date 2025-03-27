@@ -1,0 +1,4 @@
+newworld/
+.env
+__pycache__/
+*.pyc
